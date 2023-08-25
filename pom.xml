@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Copyright 2009-2015 the original author or authors.
 
@@ -209,7 +209,7 @@
     <dependency>
       <groupId>org.apache.derby</groupId>
       <artifactId>derby</artifactId>
-      <version>10.12.1.1</version>
+      <version>10.16.1.1</version>
       <scope>test</scope>
     </dependency>
     <dependency>
